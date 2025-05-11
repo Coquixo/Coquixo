@@ -70,5 +70,5 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" alt="Jest"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" alt="Cypress"/>
   <img src="https://vitejs.dev/logo.svg" width="40" alt="Vitest"/>
-    <img src="https://techicons.dev/icons/astro.svg" alt="Astro" width="40" height="40"/>
+  <img src="./content/Astro.svg" alt="Astro" width="40" height="40"/>
 </p>
