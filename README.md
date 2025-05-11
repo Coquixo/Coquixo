@@ -29,12 +29,11 @@
 #### 💻 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue 2"/> Vue 2
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" alt="Vue 3"/> Vue 3
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue 2"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap"/>
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
 #### 🧠 Backend & Fullstack
@@ -62,7 +61,7 @@
 
 #### ☁️ AWS Services
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   ECS | EC2 | Lambda | CloudWatch | VPC | Amplify | AppSync + GraphQL
 </p>
 
@@ -70,25 +69,6 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" alt="Jest"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" alt="Cypress"/>
-  <img src="https://vitejs.dev/logo.svg" width="40" alt="Vitest"/> Vitest
-  <img src="https://astro.build/assets/logo-astro-dark.svg" width="40" alt="Astro"/> Astro
+  <img src="https://vitejs.dev/logo.svg" width="40" alt="Vitest"/>
+    <img src="https://techicons.dev/icons/astro.svg" alt="Astro" width="40" height="40"/>
 </p>
-
-#### 🧰 Other Tools & Patterns
-<p>
-  <img src="https://avatars.githubusercontent.com/u/105254847?s=200&v=4" width="40" alt="Pinta"/> Pinta
-  <img src="https://avatars.githubusercontent.com/u/113391394?s=200&v=4" width="40" alt="Nanostores"/> Nanostores
-  <strong>Composition API</strong> ✅
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coquixo&show_icons=true&hide_border=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coquixo&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
