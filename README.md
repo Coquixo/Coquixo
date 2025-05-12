@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">💼 Team Lead|Full Stack Developer at <a href="https://www.hotelinking.com" target="_blank">Hotelinking</a> | 🌍 Based in Mallorca, Balearic Islands</h3>
+<h3 align="center">💼 Team Lead | Full Stack Developer at <a href="https://www.hotelinking.com" target="_blank">Hotelinking</a> | 🌍 Based in Mallorca, Balearic Islands</h3>
 
 ---
 
