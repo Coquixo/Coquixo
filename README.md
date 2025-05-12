@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">💼 Team Lead at <a href="https://www.hotelinking.com" target="_blank">Hotelinking</a> | 🌍 Based in Mallorca, Balearic Islands</h3>
+<h3 align="center">💼 Team Lead|Full Stack Developer at <a href="https://www.hotelinking.com" target="_blank">Hotelinking</a> | 🌍 Based in Mallorca, Balearic Islands</h3>
 
 ---
 
@@ -36,7 +36,7 @@
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-#### 🧠 Backend & Fullstack
+#### 🧠 Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
